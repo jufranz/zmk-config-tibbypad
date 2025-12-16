@@ -20,4 +20,4 @@
 ---
 include:
   - board: xiao_ble
-    shield: two_percent_milk
+    shield: tibbypad
